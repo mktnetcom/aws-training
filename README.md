@@ -1,18 +1,23 @@
-# Best AWS Training Courses
-## _Your Ultimate AWS Resources_
+# How valuable is AWS Certification?
 
-### Why AWS Courses
-- Point 1
-- Point 2
-- Point 3
+It's no surprise that 82 percent of IT professionals polled in the United States and Canada had at least one AWS certification. In addition, the average number of confirmations received by review responders was 2.9. AWS was founded in 2006 as an internal foundation of Amazon.com. AWS is an Amazon cloud service that provides services in building blocks that can be used to construct and deploy any application in the cloud.
 
-### Features
+AWS offers around 90 services, with the most popular being (S3). AWS Certification tests cost $150 at the Associate level and $300 at the Professional level.
+Amazon Simple Storage Service (ASS) and Amazon Elastic Compute Cloud (EC2) and are examples of cloud computing services, as represented by the letter b. According to the 2016 IT Skills and Compensation Survey, the pay rates of AWS-certified IT professionals have increased by 10% since 2015, and AWS certification may increase your salary by 26%.
+There are five certificates available at both the associate and professional levels, with re-certification every two years.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Associate level architect
+- Professional Certified Solutions Architect
+- Associate Certified Developer
+- Associate Certified SysOps Administrator
+- Professional Certified DevOps Engineer
 
-> Top AWS Certifications to  Excel in Your Career
+### Certification requirements
+
+- You must first create an AWS account.
+- Your domain name (optional but recommended)
+- AWS certified individuals earn a salary on a Windows, Linux, or Mac PC/Laptop.
+
 
 | AWS Products | No of Courses |
 | ------ | ------ |
